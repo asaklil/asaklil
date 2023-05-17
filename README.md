@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-. Data science student at the University of Ottawa😎.
+- Data science student at the University of Ottawa😎.
 
-. Passion for machine learning and mathematics📚.
+- Passion for machine learning and mathematics📚.
 
-. Spend free time reading, meditating📖🙏. 
+- Spend free time reading, meditating📖🙏. 
 
-. Reach out to me : ismail.asaklil@gmail.com 📫.
+- Reach out to me : ismail.asaklil@gmail.com 📫.
