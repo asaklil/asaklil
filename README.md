@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 - Passion for machine learning and mathematics📚.
 
-- Spend free time reading, meditating📖🙏. 
+- Spend free time reading 📖. 
 
 - Reach out to me : ismail.asaklil@gmail.com 📫.
