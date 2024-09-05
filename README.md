@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is Ismail 
 
 <!--
 **asaklil/asaklil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 - Data science student at the University of Ottawa😎.
 
-- Passion for machine learning and mathematics📚.
-
-- Spend free time reading 📖. 
+- Passion for Technologies and Mathematics📚.
 
 - Reach out to me : ismail.asaklil@gmail.com 📫.
